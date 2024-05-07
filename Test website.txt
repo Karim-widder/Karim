@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AutoWelt</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; color: #333; }
+        header, nav, section { padding: 20px; }
+        header { background: #007BFF; color: white; }
+        nav { background: #e3e3e3; }
+        nav ul { list-style: none; padding: 0; }
+        nav ul li { display: inline; margin-right: 10px; }
+        nav ul li a { text-decoration: none; color: #333; font-weight: bold; }
+        section { margin-bottom: 20px; }
+        footer { background: #007BFF; color: white; text-align: center; padding: 10px 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Willkommen in der Welt der Autos!</h1>
+        <p>Entdecken Sie alles rund um Automobile – von klassischen Modellen bis zu den neuesten Technologien.</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#geschichte">Geschichte</a></li>
+            <li><a href="#modelle">Modelle</a></li>
+            <li><a href="#technologie">Technologie</a></li>
+            <li><a href="#sicherheit">Sicherheit</a></li>
+        </ul>
+    </nav>
+    <section id="geschichte">
+        <h2>Geschichte der Autos</h2>
+        <p>Die Geschichte des Automobils beginnt im 19. Jahrhundert. Das erste benzinbetriebene Auto wurde von Karl Benz erfunden.</p>
+    </section>
+    <section id="modelle">
+        <h2>Auto Modelle</h2>
+        <p>Hier finden Sie Informationen über verschiedene Automodelle, von klassischen bis zu modernen Fahrzeugen.</p>
+    </section>
+    <section id="technologie">
+        <h2>Technologische Innovationen</h2>
+        <p>Entdecken Sie die neuesten technologischen Fortschritte in der Automobilindustrie, einschließlich Elektroautos und autonomen Fahrzeugen.</p>
+    </section>
+    <section id="sicherheit">
+        <h2>Sicherheit in Autos</h2>
+        <p>Sicherheit ist ein entscheidender Aspekt bei der Entwicklung von Fahrzeugen. Erfahren Sie mehr über Sicherheitssysteme und -features, die das Fahren sicherer machen.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 AutoWelt. Alle Rechte vorbehalten.</p>
+    </footer>
+    <script>
+        // Hier könnte JavaScript-Code stehen, z.B. für eine Bildergalerie oder interaktive Features.
+    </script>
+</body>
+</html>
